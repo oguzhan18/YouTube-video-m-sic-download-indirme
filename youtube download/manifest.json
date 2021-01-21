@@ -1,0 +1,10 @@
+﻿{  
+    "name": "ÇART APP   YouTube video / music download"
+,   "version": "1.0"
+,   "manifest_version": 2
+,   "author": "Oğuzhan ÇART"
+,   "description": "Easy to download YouTube videos and music now."
+,   "browser_action": {  "default_icon" : "default-icon.png",  "default_popup" : "index.html"}
+,   "icons" : {  "16" : "16.png",  "48" : "48.png",  "128" : "128.png"}
+
+}
